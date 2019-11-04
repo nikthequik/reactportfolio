@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/next": "^8.0.6",
+    "@types/react": "^16.9.11",
+    "@types/reactstrap": "^8.0.6",
+    "@types/styled-jsx": "^2.2.8",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "bootstrap": "^4.3.1",
+    "next": "9.1.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "reactstrap": "^8.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
